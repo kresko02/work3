@@ -1,0 +1,9 @@
+/* Применяем Montserrat для всех заголовков */
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Применяем Roboto для всего остального текста на сайте */
+body {
+    font-family: 'Roboto', sans-serif;
+}
